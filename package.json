@@ -27,7 +27,7 @@
     "prepare": "vibe-rules install cursor"
   },
   "dependencies": {
-    "@base-ui-components/react": "1.0.0-beta.1",
+    "@base-ui-components/react": "https://pkg.pr.new/@base-ui-components/react@2273",
     "@prisma/adapter-d1": "~6.8.2",
     "@prisma/client": "~6.8.2",
     "@simplewebauthn/browser": "^13.1.0",

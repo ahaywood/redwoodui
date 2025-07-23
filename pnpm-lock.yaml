@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@base-ui-components/react':
-        specifier: 1.0.0-beta.1
-        version: 1.0.0-beta.1(@types/react@19.1.8)(react-dom@19.2.0-canary-39cad7af-20250411(react@19.2.0-canary-39cad7af-20250411))(react@19.2.0-canary-39cad7af-20250411)
+        specifier: https://pkg.pr.new/@base-ui-components/react@2273
+        version: https://pkg.pr.new/@base-ui-components/react@2273(@types/react@19.1.8)(react-dom@19.2.0-canary-39cad7af-20250411(react@19.2.0-canary-39cad7af-20250411))(react@19.2.0-canary-39cad7af-20250411)
       '@prisma/adapter-d1':
         specifier: ~6.8.2
         version: 6.8.2
@@ -218,8 +218,9 @@ packages:
     resolution: {integrity: sha512-x0LvFTekgSX+83TI28Y9wYPUfzrnl2aT5+5QLnO6v7mSJYtEEevuDRN0F0uSHRk1G1IWZC43o00Y0xDDrpBGPQ==}
     engines: {node: '>=6.9.0'}
 
-  '@base-ui-components/react@1.0.0-beta.1':
-    resolution: {integrity: sha512-7zmGiz4/+HKnv99lWftItoSMqnj2PdSvt2krh0/GP+Rj0xK0NMnFI/gIVvP7CB2G+k0JPUrRWXjXa3y08oiakg==}
+  '@base-ui-components/react@https://pkg.pr.new/@base-ui-components/react@2273':
+    resolution: {tarball: https://pkg.pr.new/@base-ui-components/react@2273}
+    version: 1.0.0-beta.1
     engines: {node: '>=14.0.0'}
     peerDependencies:
       '@types/react': ^17 || ^18 || ^19
@@ -2707,7 +2708,7 @@ snapshots:
       '@babel/helper-string-parser': 7.27.1
       '@babel/helper-validator-identifier': 7.27.1
 
-  '@base-ui-components/react@1.0.0-beta.1(@types/react@19.1.8)(react-dom@19.2.0-canary-39cad7af-20250411(react@19.2.0-canary-39cad7af-20250411))(react@19.2.0-canary-39cad7af-20250411)':
+  '@base-ui-components/react@https://pkg.pr.new/@base-ui-components/react@2273(@types/react@19.1.8)(react-dom@19.2.0-canary-39cad7af-20250411(react@19.2.0-canary-39cad7af-20250411))(react@19.2.0-canary-39cad7af-20250411)':
     dependencies:
       '@babel/runtime': 7.27.6
       '@floating-ui/react-dom': 2.1.4(react-dom@19.2.0-canary-39cad7af-20250411(react@19.2.0-canary-39cad7af-20250411))(react@19.2.0-canary-39cad7af-20250411)
