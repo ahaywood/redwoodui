@@ -1,7 +1,7 @@
-"use client";
 import * as React from "react";
 import { Accordion } from "@base-ui-components/react/accordion";
 import styles from "./index.module.css";
+console.log(styles);
 
 export default function ExampleAccordion() {
   return (
